@@ -1,0 +1,18 @@
+galaxy_info:
+  author: Filip Tepper
+  description: Confluent Platform APT source
+  company: Castle Intelligence, Inc.
+  issue_tracker_url: https://github.com/castle/confluent-platform-apt
+  license: BSD
+  min_ansible_version: 1.2
+  platforms:
+  - name: Ubuntu
+    versions:
+    - trusty
+    - xenial
+    - bionic
+  galaxy_tags:
+  - system
+  - kafka
+  - zookeeper
+  - confluent
